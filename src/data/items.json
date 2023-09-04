@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14 Pro",
+    "price": 119999,
+    "imgUrl": "https://m.media-amazon.com/images/I/61HHS0HrjpL._SX679_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M2",
+    "price": 106990,
+    "imgUrl": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._SX679_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "iPad Pro 11-inch",
+    "price": 79900,
+    "imgUrl": "https://m.media-amazon.com/images/I/81rxOSprYqL._SX466_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "price": 29990,
+    "imgUrl": "https://m.media-amazon.com/images/I/61vJtKbAssL._SX679_.jpg"
+  }
+]
